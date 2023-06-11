@@ -24,7 +24,7 @@ import java.util.List;
 public class Bot extends TelegramLongPollingBot {
     private XSSFWorkbook workbook;
     public Bot() {
-        this.workbook = new XSSFWorkbook(); // инициализируем экземпляр XSSFWorkbook в конструкторе
+        this.workbook = new XSSFWorkbook(); 
     }
 
     @Override
