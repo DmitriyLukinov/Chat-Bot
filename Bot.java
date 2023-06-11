@@ -28,11 +28,11 @@ public class Bot extends TelegramLongPollingBot {
     }
 
     @Override
-    public String getBotUsername() {return "Knopka333_bot";}
+    public String getBotUsername() {return "aaa_bot";}
 
     @Override
     public String getBotToken() {
-        return "5704161442:AAE51voX_WRk6nQSLYHGUsnZHf6-OPlfoXI";
+        return "0000000000:00000000_WRk6nQSLYHGUsnZHf6-0000000";
     }
 
     @Override
